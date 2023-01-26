@@ -1,0 +1,17 @@
+{
+  "name": "astro-ssr-express-2-frontend",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/node": "^5.0.0",
+    "astro": "^2.0.1"
+  }
+}
